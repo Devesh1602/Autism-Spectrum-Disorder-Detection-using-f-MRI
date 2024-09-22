@@ -9,16 +9,16 @@ This project focuses on building an advanced machine learning framework for the 
 3) NLP-Integrated Web App: For ease of interaction, a ReactJS-based web application was developed that incorporates Natural Language Processing (NLP) to enhance user experience.
 4) Deployment: The entire system has been deployed on Heroku, allowing easy access to the model's predictions and the web interface.
 
-![PHOTO-2024-04-04-09-46-04 2](https://github.com/user-attachments/assets/64f81c0e-a4c8-4c2d-a848-c250d0951534)
-![PHOTO-2024-04-04-09-45-47 2](https://github.com/user-attachments/assets/6272f6c0-0e4e-4182-84d7-6c6cd82b84f5)
-![PHOTO-2024-04-04-09-45-19 2](https://github.com/user-attachments/assets/79e69bdc-ab0e-40f1-a09d-2ee5997a3096)
-![PHOTO-2024-04-04-09-44-59 2](https://github.com/user-attachments/assets/7300f1d4-2ec4-4024-96f2-a7f2252b3cd1)
-![PHOTO-2024-04-04-09-44-42 2](https://github.com/user-attachments/assets/a3a9db5a-73df-424c-8c76-80f3cae19114)
-![PHOTO-2024-04-04-09-44-16 2](https://github.com/user-attachments/assets/e0d58f29-f4f0-4fcf-a101-882767c44063)
-![PHOTO-2024-04-04-09-40-31 2](https://github.com/user-attachments/assets/27e5bde6-63f9-4749-be48-0742388000ab)
-![PHOTO-2024-04-04-09-40-13 2](https://github.com/user-attachments/assets/d8911669-0efd-4a04-bfbd-44c246e6e06b)
-![PHOTO-2024-04-04-09-04-15](https://github.com/user-attachments/assets/0516c3e7-dbf8-40d5-ba74-5873f9922a32)
-![PHOTO-2024-04-04-09-04-15 2](https://github.com/user-attachments/assets/65f8a0f7-ea4f-4edb-8467-141b8dfd5af1)
+![IMG 1](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-40-13%202.jpg)
+![IMG 2](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-04-15%202.jpg)
+![IMG 3](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-04-15.jpg)
+![IMG 4](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-40-31%202.jpg)
+![IMG 5](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-44-16%202.jpg)
+![IMG 6](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-44-42%202.jpg)
+![IMG 7](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-44-59%202.jpg)
+![IMG 8](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-45-19%202.jpg)
+![IMG 9](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-45-47%202.jpg)
+![IMG 10](https://github.com/Devesh1602/Autism-Spectrum-Disorder-Detection-using-f-MRI/blob/main/PHOTO-2024-04-04-09-46-04%202.jpg)
 
 ### Project Overview
 This repository contains the code for classifying Autism using fMRI data. It leverages a 13-layer CNN model to analyze fMRI images and predict the likelihood of Autism. The model is integrated with a ReactJS-based web app for interactive user experiences, and it's deployed using Heroku.
